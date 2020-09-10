@@ -1,3 +1,3 @@
-import NaturalMovementControls from "./src/NaturalMovementControls";
+import NaturalMovementControls from "./NaturalMovementControls";
 
 export default NaturalMovementControls;
